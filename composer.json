@@ -1,0 +1,16 @@
+{
+    "name": "geek/egsisweb",
+    "authors": [
+        {
+            "name": "GeraldasK",
+            "email": "gerk.kasp@icloud.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Models\\" : "Classes"
+        }
+    }
+}

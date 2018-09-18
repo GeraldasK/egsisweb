@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(229, 244, 248);
+}
+
+header{
+    margin-top: 56px;
+}
+
+table{
+    min-height: 25em;
+}
+
+h2, h5{
+    padding: 2px;
+    color: rgb(16, 110, 16);
+    border-bottom: 3px solid rgb(16, 110, 16);
+    font-family: 'Bitter', serif;
+}
+
+p, label, h3{
+    font-family: 'Bitter', serif;
+    color: rgb(16, 110, 16);
+}
+
+.header-text{
+    color: rgb(233, 233, 41);
+    padding-top: 170px;
+    font-size: 4em;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.bg-img{
+    background-image: url('photos/upe.png');
+    background-repeat: no-repeat;
+    height: 300px;
+    margin-top: 56px;
+}
+
+.logo-cover{
+    margin-top: 30px;
+    padding: 8px;
+    border-radius: 30px;;
+}
+
+.link-text li a{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.link-text{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.contact-img{
+    width: 40px;
+}
+
+
